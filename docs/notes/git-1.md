@@ -29,7 +29,9 @@ Git Fundamentals
 
 - `git add`
 - `git log`
-- `git commit -m "Something here."`
+- `git commit`
+  - `git commit -m "Something here."`
+  - `git commit --amend`
 - `git log`
   - `git log --oneline`
 
