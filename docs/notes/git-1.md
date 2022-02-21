@@ -36,7 +36,6 @@ Git Fundamentals
 
 - https://git-scm.com/docs
 
-- `.gitignore`
-  - https://www.toptal.com/developers/gitignore
-  - https://github.com/github/gitignore
-
+## `.gitignore`
+- https://www.toptal.com/developers/gitignore
+- https://github.com/github/gitignore

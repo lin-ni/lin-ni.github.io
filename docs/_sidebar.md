@@ -9,4 +9,5 @@
   - [Fundamentals](docs/notes/javascript-1.md)
 
 - <mark>Git + Github</mark>
-  - [Fundamentals](docs/notes/git-1.md)
+  - [Basics](docs/notes/git-1.md)
+  - [Branches](docs/notes/git-2.md)
