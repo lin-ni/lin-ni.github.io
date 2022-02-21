@@ -8,5 +8,5 @@
 - JavaScript
   - [Fundamentals](docs/notes/javascript-1.md)
 
-- <mark>[Git + Github](docs/notes/git-1.md)</mark>
-  - 1
+- <mark>Git + Github</mark>
+  - [Fundamentals](docs/notes/git-1.md)
